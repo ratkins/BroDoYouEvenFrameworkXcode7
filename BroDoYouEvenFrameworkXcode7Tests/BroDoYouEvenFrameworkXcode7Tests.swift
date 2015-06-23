@@ -7,6 +7,7 @@
 //
 
 import XCTest
+import Quick
 
 class BroDoYouEvenFrameworkXcode7Tests: XCTestCase {
     
